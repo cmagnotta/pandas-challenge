@@ -11,4 +11,4 @@ Also, here is the link to my Jupyter file.
 
 
 
-https://tinyurl.com/y33yqcha
+[My notebook](HeroesOfPymoli/pymoliheroes2.ipynb) 
